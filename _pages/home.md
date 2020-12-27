@@ -9,7 +9,7 @@ header:
     - label: "Get Started"
       url: "https://portal.mcbot.org"
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v3.4.8</a></small><br /><br />'
+excerpt: 'Do you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms? Have you ever feel lonely while playing on a multiplayer Minecraft server? Do you need some help on looking for some resources or even desire a wonderful builder? If you answer yes to any of the questions, our Minecraft Bot service is right here for you!<br /><br />'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
