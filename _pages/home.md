@@ -3,9 +3,11 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/splash.jpg
-  cta_label: "<i class='fa fa-download'></i> Get Started"
-  cta_url: "/docs/quick-start-guide/"
+  actions:
+    - label: "Get Started"
+      url: "https://portal.mcbot.org"
   caption:
 excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v3.4.8</a></small><br /><br />'
 feature_row:
