@@ -10,7 +10,7 @@ header:
     - label: "Get Started"
       url: "https://portal.mcbot.org"
 
-excerpt: 'Your personal Minecraft Bot service. Do you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms? Our Minecraft Bot service is right here for your needs!<br />Join us and create your personal Bot serving for you, and it's FREE!<br />'
+excerpt: 'Your personal Minecraft Bot service. Do you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms? Our Minecraft Bot service is right here for your needs!<br />Join us and create your personal Bot serving for you, and it is FREE!<br />'
 
 feature_row:
   - image_path: mm-customizable-feature.png
