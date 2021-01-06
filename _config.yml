@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: McBot
+subtitle: Minecraft SMP Bot service
 logo: "/assets/images/mcbot.png"
 email: info@mcbot.org
 description: >- # this means to ignore newlines until "baseurl:"
