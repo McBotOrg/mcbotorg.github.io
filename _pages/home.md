@@ -9,30 +9,27 @@ header:
   actions:
     - label: "Get Started"
       url: "https://portal.mcbot.org"
-  caption: This is a caption
+  caption: 
 
-excerpt: 'Do you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms? Have you ever feel lonely while playing on a multiplayer Minecraft server? Do you need some help on looking for some resources or even desire a wonderful builder? If you answer yes to any of the questions, our Minecraft Bot service is right here for you!<br /><br />'
-
-intro:
-  - excerpt: 'This is the intro'
+excerpt: 'Your personal Minecraft Bot service. Do you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms? Our Minecraft Bot service is right here for your needs!<br />Join us and create your personal Bot serving for you, and it's FREE!<br />'
 
 feature_row:
   - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "remote control"
+    title: "Remote Control"
+    excerpt: "You will control your Bot remotely from your web browser any time and any where."
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "auto reconnect"
+    title: "Automatically Reconnecting"
+    excerpt: "Server restart? Randomly kicked? No worries! Your Bot can automatically reconnect to the server in a couple minutes."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "100% free"
     title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    excerpt: "Our Bot service is free to use! No need to pay! Of course donations are welcomed."
     url: "/docs/license/"
     btn_label: "Learn More"
 ---
