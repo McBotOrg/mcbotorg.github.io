@@ -9,7 +9,6 @@ header:
   actions:
     - label: "Get Started"
       url: "https://portal.mcbot.org"
-  caption: 
 
 excerpt: 'Your personal Minecraft Bot service. Do you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms? Our Minecraft Bot service is right here for your needs!<br />Join us and create your personal Bot serving for you, and it's FREE!<br />'
 
@@ -33,7 +32,5 @@ feature_row:
     url: "/docs/license/"
     btn_label: "Learn More"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
