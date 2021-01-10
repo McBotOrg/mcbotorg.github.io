@@ -10,7 +10,7 @@ header:
     - label: "Get Started"
       url: "https://portal.mcbot.org"
 
-excerpt: 'A cloud Minecraft SMP Bot service. If you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms, or you have to AFK on several different servers, our cloud Bot service is right here to ease your life!<br /><br />Join us and create your first Bot on the cloud and start AFKing.<br />'
+excerpt: 'Your Minecraft Bot in the cloud. No need to download anything. Never have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms.<br /><br />Join us and create your first Bot today.<br />'
 
 feature_row:
   - image_path: /assets/images/remote-control.png
