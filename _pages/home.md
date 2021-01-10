@@ -10,17 +10,17 @@ header:
     - label: "Get Started"
       url: "https://portal.mcbot.org"
 
-excerpt: 'Your personal Minecraft SMP Bot service. Do you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms? Our Minecraft Bot service is right here for your needs!<br /><br />Join us and create your first Bot serving for you now!<br />'
+excerpt: 'McBot is a cloud Minecraft SMP Bot service. If you have to keep your desktop computer or laptop open for a whole night to AFK at your productive Minecraft farms, or you have to AFK on several different servers, our cloud Bot service is right here to ease your life!<br /><br />Join us and create your first Bot on the cloud and start AFKing.<br />'
 
 feature_row:
   - image_path: /assets/images/remote-control.png
     alt: "remote control"
     title: "Remote Control"
-    excerpt: "You will control your Bot remotely from your web browser any time any where."
+    excerpt: "You will control your Bot remotely from your web browser any time any where. No client or download needed!"
   - image_path: /assets/images/auto-reconnect.png
     alt: "auto reconnect"
     title: "Automatic Reconnecting"
-    excerpt: "Server restart? Randomly kicked? No worries! Your Bot can automatically reconnect to the server in a couple minutes."
+    excerpt: "Server restart? Get randomly kicked? No worries! Your Bot can automatically reconnect to the server in a couple minutes."
   - image_path: /assets/images/totally-free.png
     alt: "totally free"
     title: "Totally Free"
