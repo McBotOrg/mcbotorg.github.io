@@ -17,9 +17,11 @@ suppose you are about to sleep:
 First, you will need to connect to your Minecraft server with your favorite Minecraft client, and walk your character
 next to your farms, or make sure you are standing at the AFK spot like this:
 
-(screenshot for the farm)
+![screenshot for the farm](/assets/images/2021_1_wither_skeleton_farm.png)
 
 ## Step 2: Create a McBot online
+
+McBot is a Minecraft Bot service in the cloud. You don't need to download or install anything.
 
 Open your web browser and navigate to [https://www.mcbot.org](https://www.mcbot.org), click `Get Started` button or `Login/Sign Up` link.
 
@@ -29,7 +31,7 @@ Click `+ Create a Bot` button, choose `AFK Bot` as the type, and click `Next`.
 
 Name your Bot, such as "My AFK Bot", and fill in the Minecraft server address you are playing at, or IP address like this:
 
-(screenshot for the creation form step 2)
+![screenshot for the creation form step 2](/assets/images/2021_1_bot_creation_form.png)
 
 Click `Next`, and fill in your Minecraft account username and password. And finally click `Create` button.
 
@@ -41,8 +43,8 @@ Click it, your Minecraft client on the computer should be kicked out because you
 
 On the Bot page, you can use left side menu to see your in-game inventory, online players, messages, and more.
 
-(screenshot for bot dashboard page)
+![screenshot for bot dashboard page](/assets/images/2021_1_bot_dashboard.png)
 
 Now you can turn off your computer and enjoy your night. Your Bot is serving for you and AFKing at the farms for the whole night.
 
-(sleep picture)
+![sleep](/assets/images/2021_1_sleep.png)
