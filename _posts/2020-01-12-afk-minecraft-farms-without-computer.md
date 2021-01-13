@@ -9,8 +9,8 @@ tags:
 ---
 
 This tutorial will show you how to AFK your Minecraft farms even without a computer or laptop.
-You may think it is not possible. Well, it is possible when you are playing on a public server.
-Suppose you are about to sleep:
+You may think it is not possible. Well, it is possible when you are playing on a public server with only three steps,
+suppose you are about to sleep:
 
 ## Step 1: Stand at your AFK spot
 
@@ -21,7 +21,7 @@ next to your farms, or make sure you are standing at the AFK spot like this:
 
 ## Step 2: Create a McBot online
 
-Open your web browser and navigate to https://www.mcbot.org, click `Get Started` button or `Login/Sign Up` link.
+Open your web browser and navigate to [https://www.mcbot.org](https://www.mcbot.org), click `Get Started` button or `Login/Sign Up` link.
 
 Choose either `Sign in with email` or `Sign in with Facebook` to create an account if you don't have it already.
 
@@ -43,6 +43,6 @@ On the Bot page, you can use left side menu to see your in-game inventory, onlin
 
 (screenshot for bot dashboard page)
 
-Now you can turn off your computer and enjoy your night. Your Bot will serve for you to AFK at the farms for the whole night.
+Now you can turn off your computer and enjoy your night. Your Bot is serving for you and AFKing at the farms for the whole night.
 
 (sleep picture)
