@@ -1,7 +1,6 @@
 ---
 permalink: /privacy/
 title: "Privacy Notice"
-classes: wide
 toc: true
 modified: 2021-01-12T08:00:00.000Z
 ---
