@@ -4,6 +4,8 @@ title: "Privacy Notice"
 modified: 2021-01-12T08:00:00.000Z
 ---
 
+**Last updated January 12, 2021**
+
 Thank you for choosing to be part of our community at McBot.org ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at support@mcbot.org.
 
 When you visit our website mcbot.org (the "Website"), use our Facebook application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the Website and App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
