@@ -88,6 +88,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mcbotorg"
+    - label: "Privacy"
+      icon: "fab fa-fw fa-lock"
+      url: "/privacy/"
 
 defaults:
   # _posts
