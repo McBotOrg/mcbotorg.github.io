@@ -2,6 +2,7 @@
 permalink: /privacy/
 title: "Privacy Notice"
 toc: true
+toc_label: "Table of Contents"
 modified: 2021-01-12T08:00:00.000Z
 ---
 
