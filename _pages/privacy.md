@@ -227,17 +227,17 @@ Depending on the circumstances, you have a right to know:
 - the business or commercial purpose for collecting or selling personal information.
 In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
 
-**Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
+**Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights**
 
 We will not discriminate against you if you exercise your privacy rights.
 
-**Verification process
+**Verification process**
 
 Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g. phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
 
 We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. If, however, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity, and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
 
-**Other privacy rights
+**Other privacy rights**
 
 - you may object to the processing of your personal data
 - you may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the data
@@ -246,17 +246,17 @@ We will only use personal information provided in your request to verify your id
 
 To exercise these rights, you can contact us by email at support@mcbot.org, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
-## 12. DO WE MAKE UPDATES TO THIS NOTICE?     
+## 12. DO WE MAKE UPDATES TO THIS NOTICE?
 
 _**In Short:**  Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-## 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
+## 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at support@mcbot.org.
 
-## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
+## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking [here](https://mcbot.freshdesk.com/support/tickets/new). We will respond to your request within 30 days.
 
