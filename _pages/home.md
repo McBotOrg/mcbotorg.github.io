@@ -22,9 +22,9 @@ feature_row:
     title: "Automatic Reconnecting"
     excerpt: "Server restart? Get randomly kicked? No worries! Your Bot can automatically reconnect to the server in a couple minutes."
   - image_path: /assets/images/totally-free.png
-    alt: "totally free"
-    title: "Totally Free"
-    excerpt: "Our Bot service is free to use! No need to pay! You can run your Bot right away. Of course donations are welcomed."
+    alt: "free to start"
+    title: "Free to Start"
+    excerpt: "Our AFK Bot service is free to use! No need to pay! More advanced features and Bots are coming soon."
 ---
 
 {% include feature_row %}
