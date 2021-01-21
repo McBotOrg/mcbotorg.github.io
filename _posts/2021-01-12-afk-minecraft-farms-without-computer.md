@@ -27,7 +27,7 @@ Open your web browser and navigate to [https://www.mcbot.org](https://www.mcbot.
 
 Choose either `Sign in with email` or `Sign in with Facebook` to create an account if you don't have it already.
 
-Click `+ Create a Bot` button, choose `AFK Bot` as the type, and click `Next`.
+Click `+ Create Your First Bot` button, choose `AFK Bot` as the type, and click `Next`.
 
 Name your Bot, such as "My AFK Bot", and fill in the Minecraft server address you are playing at, or IP address like this:
 
