@@ -8,8 +8,6 @@ tags:
   - Password
 ---
 
-**DRAFT**
-
 We always treat our customers seriously and keep trying hard to make sure all the information is secure especially sensitive pieces such as passwords.
 That's why we are still not providing password login because of course passwords are absolutely protected if we even don't ask for them.
 
