@@ -29,7 +29,7 @@ If you are using Microsoft account, you are likely to see the following screen a
 
 Please follow the instructions and help your Bot complete the authentication flow.
 
-**Note**: You should finish the verification flow ASAP. Otherwise, you'll likely to experience some timeout issue, or your verification code could be expired.
+**Note**: You should finish the verification flow **ASAP**. Otherwise, you'll likely experience some timeout issue, or your verification code would be expired.
 If this is the case, just stop your Bot and start again.
 
 ## Need Help?
